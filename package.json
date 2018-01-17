@@ -1,0 +1,14 @@
+{
+  "name": "TheBoysTrap",
+  "description": "A Discord bot coded in Discord.JS, hosted using Heroku.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ytdl-core": "^0.18.7",
+    "opusscript": "^0.0.6"
+  }
+}
