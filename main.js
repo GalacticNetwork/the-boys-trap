@@ -34,4 +34,4 @@ bot.on('ready', function()
 });
 
 // Bot login
-bot.login('NDAzMDQzODEzOTY4NTc2NTIy.DUBkWg.9eJXCp2-XksDLj0Ww3GghqePIDM');
+bot.login('process.env.TOKEN');
