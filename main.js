@@ -34,4 +34,4 @@ bot.on('ready', function()
 });
 
 // Bot login
-bot.login('process.env.BOT_TOKEN');
+bot.login(process.env.BOT_TOKEN);
